@@ -11,7 +11,7 @@
 
 ## Demo
 
-Live Demo: https://usamaalidev.github.io/Note-App/
+Live Demo: 
 
 ## Run Locally
 
